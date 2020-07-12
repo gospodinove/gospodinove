@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am naturally curious and passionate about software development. I am a novice iOS developer. I am studying Computer Science at Sofia University.
+I am a novice iOS developer. I am studying Computer Science at Sofia University. I am naturally curious and passionate about software development. 
 
 I'm currently working on building my portfolio of iOS projects.
