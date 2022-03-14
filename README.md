@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I work as a mobile (React Native) developer. I am studying Computer Science at Sofia University. I am naturally curious and passionate about software development. 
+I work as a SFCC developer. I am studying Computer Science at Sofia University. I am naturally curious and passionate about software development. 
 
 I'm actively working on improving my development skill and building out my portfolio of mobile applications.
